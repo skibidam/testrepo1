@@ -1,0 +1,13 @@
+__author__ = "dam"
+
+print("wsg whats yo name")
+user_name = input()
+
+if user_name == "adam":
+    print("adam sigma skibidi rizzler")
+elif user_name == "ammar":
+    print("ammar hitam")
+elif user_name == "nukman":
+    print("kys")
+else:
+    print("u r not sigma")
